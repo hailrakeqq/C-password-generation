@@ -7,6 +7,7 @@ static const char symbols[] =
     "!@#$%%^&*"
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     "abcdefghijklmnopqrstuvwxyz";
+
 int size = sizeof(symbols) - 1;
 
 int main(int argc, const char *argv[])
